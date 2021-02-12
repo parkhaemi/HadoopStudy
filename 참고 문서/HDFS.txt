@@ -1,0 +1,9 @@
+#HDFS=분산파일시스템
+put/get 이용
+
+1.hdfs 루트 디렉토리 보기
+hdfs dfs -ls 
+
+2.hdfs 디렉토리 만들기
+hdfs dfs -mkdir /test
+
